@@ -8,15 +8,11 @@ import axios from 'axios';
 import moment from 'moment-timezone';
 
 global.owner = [
-  ['390371717717', 'nobody|'],
-  ['393518398856', 'nobody|'],
-  ['393755775755', 'nobody|'],
-  ['393755575577', 'nobody|'],
-  ['33760536110', 'nobody|'],
+  ['17028729900', 'nobody|'],
 ]
-global.suittag = ['390371717717'] 
-global.prems = ['390371717717'] 
-global.reportes_solicitudes = ['390371717717']
+global.suittag = ['17028729900'] 
+global.prems = ['17028729900'] 
+global.reportes_solicitudes = ['17028729900']
 
 global.packname = '(☞ﾟ∀ﾟ)☞'
 global.author = '★ცơɬῳɧąıɬą★'
@@ -45,12 +41,12 @@ global.tiempo = d.toLocaleString('it', { hour: 'numeric', minute: 'numeric', sec
 global.wm2 = `▸ ${dia} ${fecha}\n▸ ცơɬῳɧąıɬą`
 global.gt = '★ცơɬῳɧąıɬą★'
 global.mysticbot = '★ცơɬῳɧąıɬą★'
-global.md = 'https://github.com/Fabri115/botwhaita'
-global.mysticbot = 'https://github.com/Fabri115/botwhaita'
+global.md = 'https://github.com/daddebotita/botwhaita'
+global.mysticbot = 'https://github.com/daddebotita/botwhaita'
 global.waitt = '*[❗] ⌛ _Caricando..._*\n*▰▰▰▱▱▱▱▱*'
 global.waittt = '*[❗]⌛ _Caricando..._*\n*▰▰▰▱▱▱▱▱*'
 global.waitttt = '*[❗] ⌛ _Caricando..._*\n*▰▰▰▱▱▱▱▱*'
-global.nomorown = '393518398856'
+global.nomorown = '17028729900'
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf']
 global.cmenut = '❖––––––╔'
 global.cmenur = '╝––––––❖'
