@@ -8,17 +8,17 @@ import axios from 'axios';
 import moment from 'moment-timezone';
 
 global.owner = [
-  ['17028729900', 'nobody|'],
+  ['393714187109', 'davide|'],
 ]
-global.suittag = ['17028729900'] 
-global.prems = ['17028729900'] 
-global.reportes_solicitudes = ['17028729900']
+global.suittag = ['393714187109'] 
+global.prems = ['393714187109'] 
+global.reportes_solicitudes = ['393714187109']
 
 global.packname = '(☞ﾟ∀ﾟ)☞'
-global.author = '★ცơɬῳɧąıɬą★'
-global.wm = '★ცơɬῳɧąıɬą ★'
+global.author = '★davide★'
+global.wm = '★davide★'
 global.vs = '4.0'
-global.igfg = '★ცơɬῳɧąıɬą★'
+global.igfg = '★davide★'
 global.wait = '*[❗]⌛ _Caricando..._*\n*▰▰▰▱▱▱▱▱*'
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg')
@@ -46,7 +46,7 @@ global.mysticbot = 'https://github.com/daddebotita/botwhaita'
 global.waitt = '*[❗] ⌛ _Caricando..._*\n*▰▰▰▱▱▱▱▱*'
 global.waittt = '*[❗]⌛ _Caricando..._*\n*▰▰▰▱▱▱▱▱*'
 global.waitttt = '*[❗] ⌛ _Caricando..._*\n*▰▰▰▱▱▱▱▱*'
-global.nomorown = '17028729900'
+global.nomorown = '393714187109'
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf']
 global.cmenut = '❖––––––╔'
 global.cmenur = '╝––––––❖'
