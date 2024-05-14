@@ -6,7 +6,7 @@ const handler = async (m, {conn, participants, usedPrefix, command}) => {
   const user = m.mentionedJid[0] ? m.mentionedJid[0] : m.quoted.sender;
   const owr = m.chat.split`-`[0];
   await conn.groupParticipantsUpdate(m.chat, [user], 'remove');
-  m.reply('*[❗𝐈𝐍𝐅𝐎❗]SUPER FABRI HA POLVERIZZATO IL COGLIONE *\@n* —◉ LA VITTIMA NON POTRA PIU DARE FASTIDIO*');
+  m.reply('*[❗𝐈𝐍𝐅𝐎❗]SUPER DADDE HA POLVERIZZATO IL COGLIONE *\@n* —◉ LA VITTIMA NON POTRA PIU DARE FASTIDIO*');
 };
 handler.command = /^(kick2|via|sacar2)$/i;
 handler.admin = true;
