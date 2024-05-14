@@ -11,7 +11,7 @@ const handler = async (m, {
   global.db.data.chats[m.chat].spacobot = true;
   m.reply(`Porco Diooo! Proprio mo che sognavo di scoparmi tua madre`);
 };
-handler.customPrefix = /sveglia fabri/i;
+handler.customPrefix = /sveglia dadde/i;
 handler.command = new RegExp;
 handler.admin = true;
 export default handler;
