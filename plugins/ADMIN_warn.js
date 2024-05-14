@@ -10,7 +10,7 @@ const handler = async (m, {conn, text, args, groupMetadata, usedPrefix, command}
   const user = global.db.data.users[who];
   if (warn < war) {
     global.db.data.users[who].warn += 1;
-    m.reply(`⚠️ 𝐀𝐕𝐕𝐄𝐑𝐓𝐈𝐌𝐄𝐍𝐓𝐎 ⚠️ *ALTO CONTENUTO DI STUPIDITA, CONTIENITI* ⚠️ *${user.warn}*`);
+    m.reply(`⚠️ 𝐀𝐕𝐕𝐄𝐑𝐓𝐈𝐌𝐄𝐍𝐓𝐎 ⚠️ *SVEGLIATI PENTITO\A (ALTO CONTENUTO DI STUPIDITA') , CONTIENITI* ⚠️ *${user.warn}*`);
   } else if (warn == war) {
     global.db.data.users[who].warn = 0;
     m.reply(`⛔ 𝐔𝐓𝐄𝐍𝐓𝐄 𝐑𝐈𝐌𝐎𝐒𝐒𝐎 𝐃𝐎𝐏𝐎 𝟑 𝐀𝐕𝐕𝐄𝐑𝐓𝐈𝐌𝐄𝐍𝐓𝐈, *ERA STUPIDO*`);
