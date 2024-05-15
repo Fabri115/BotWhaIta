@@ -20,7 +20,7 @@ const handler = async (m, {conn, participants, groupMetadata}) => {
 
 ┃⋄ *🪢 Configurazione del gruppo:*
    • ${isBanned ? '✅' : '❎'} Gruppo Ban
-   • ${welcome ? '✅' : '❎'} Benvenuto
+   • ${welcome ? '✅' : '❎'} Benvenuto nel gruppo amore
    • ${detect ? '✅' : '❎'} Detect sul bot
    • ${del ? '❎' : '✅'} Anti Delete
    • ${antiLink ? '✅' : '❎'} Anti Link HARD
