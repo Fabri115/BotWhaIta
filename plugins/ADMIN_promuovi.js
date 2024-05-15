@@ -25,7 +25,7 @@ const handler = async (m, {conn, usedPrefix, text}) => {
 };
 handler.help = ['*593xxx*', '*@usuario*', '*responder chat*'].map((v) => 'promote ' + v);
 handler.tags = ['group'];
-handler.command = /^(promote|promuovi|mettiadmin)$/i;
+handler.command = /^(promote|promuovi|mettiadmin|p)$/i;
 handler.group = true;
 handler.admin = true;
 handler.botAdmin = true;
