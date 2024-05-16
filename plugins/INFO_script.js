@@ -1,5 +1,5 @@
 const handler = async function(m, {conn, __dirname}) {
-  m.reply(`*Assaggialoooooo:*\nhttps://github.com/Fabri115/botwhaita`);
+  m.reply(`*Assaggialoooooo:*\nhttps://github.com/daddebotita/botwhaita`);
 };
 
 handler.help = ['script'];

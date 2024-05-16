@@ -56,7 +56,7 @@ const handler = async (m, {conn, usedPrefix}) => {
 │➤  ${usedPrefix}bonk
 └───────⭓
 
-┌──⭓ *MENU 'FABRI'*
+┌──⭓ *MENU 'DADDE'*
 |- fabri funziona senza uso
 |  di prefisso.
 |  per attivarlo:
@@ -88,7 +88,7 @@ const handler = async (m, {conn, usedPrefix}) => {
 └───────⭓
 
 𝐕𝐄𝐋𝐎𝐂𝐈𝐓𝐀': ${speed} 𝐬𝐞𝐜𝐨𝐧𝐝𝐢
-✦✧✧𝓜𝓸𝓸𝓷 𝓑𝓸𝓽✧✧✦
+✦✧✧𝖉𝖆𝖉𝖉𝖊 𝖇𝖔𝖙✧✧✦
 `.trim();
   conn.reply(m.chat, text, prova, m, false );
 };
