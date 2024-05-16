@@ -39,7 +39,7 @@ const handler = async (m, {conn, usedPrefix}) => {
 │⭔ ${usedPrefix}unbanchat
 └───────⭓
 𝐕𝐄𝐋𝐎𝐂𝐈𝐓𝐀': ${speed} 𝐬𝐞𝐜𝐨𝐧𝐝𝐢
-✦✧✧𝐁Ꮻ𝐓 ✧✧✦ 
+✦✧✧𝖉𝖆𝖉𝖉𝖊 𝖇𝖔𝖙✧✧✦ 
 `.trim();
   conn.sendFile(m.chat, grup, 'errop.jpg', text, m, false );
 };
